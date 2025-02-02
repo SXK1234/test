@@ -88,6 +88,6 @@ public:
 
 public:
   static RC create_stmt(Db *db, ParsedSqlNode &sql_node, Stmt *&stmt);
-
+  
 private:
 };
